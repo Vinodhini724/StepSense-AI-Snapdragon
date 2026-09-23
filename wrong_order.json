@@ -1,0 +1,11 @@
+{
+  "name": "Wrong-order attempt",
+  "observations": [
+    {"step_id": "sanitize_hands", "start_seconds": 0, "end_seconds": 8, "confidence": 0.90},
+    {"step_id": "wear_coat", "start_seconds": 9, "end_seconds": 20, "confidence": 0.88},
+    {"step_id": "wear_gloves", "start_seconds": 21, "end_seconds": 31, "confidence": 0.92},
+    {"step_id": "wear_mask", "start_seconds": 32, "end_seconds": 39, "confidence": 0.93},
+    {"step_id": "wear_goggles", "start_seconds": 40, "end_seconds": 47, "confidence": 0.89}
+  ]
+}
+

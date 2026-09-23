@@ -1,0 +1,38 @@
+{
+  "id": "lab_safety_preparation",
+  "name": "Laboratory Safety Preparation",
+  "description": "A five-step demonstration procedure for preparing to enter a supervised laboratory activity.",
+  "steps": [
+    {
+      "id": "sanitize_hands",
+      "name": "Sanitise hands",
+      "prompt": "a person sanitising or rubbing their hands",
+      "max_duration_seconds": 20
+    },
+    {
+      "id": "wear_coat",
+      "name": "Wear laboratory coat",
+      "prompt": "a person putting on a laboratory coat or protective gown",
+      "max_duration_seconds": 30
+    },
+    {
+      "id": "wear_mask",
+      "name": "Wear face mask",
+      "prompt": "a person putting on a face mask",
+      "max_duration_seconds": 20
+    },
+    {
+      "id": "wear_goggles",
+      "name": "Wear safety goggles",
+      "prompt": "a person putting on protective safety goggles",
+      "max_duration_seconds": 20
+    },
+    {
+      "id": "wear_gloves",
+      "name": "Wear protective gloves",
+      "prompt": "a person putting on protective gloves",
+      "max_duration_seconds": 25
+    }
+  ]
+}
+

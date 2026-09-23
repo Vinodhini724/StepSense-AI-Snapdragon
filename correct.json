@@ -1,0 +1,11 @@
+{
+  "name": "Correct attempt",
+  "observations": [
+    {"step_id": "sanitize_hands", "start_seconds": 0, "end_seconds": 8, "confidence": 0.92},
+    {"step_id": "wear_coat", "start_seconds": 9, "end_seconds": 20, "confidence": 0.89},
+    {"step_id": "wear_mask", "start_seconds": 21, "end_seconds": 28, "confidence": 0.94},
+    {"step_id": "wear_goggles", "start_seconds": 29, "end_seconds": 36, "confidence": 0.91},
+    {"step_id": "wear_gloves", "start_seconds": 37, "end_seconds": 48, "confidence": 0.90}
+  ]
+}
+

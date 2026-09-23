@@ -1,0 +1,12 @@
+{
+  "name": "Repeated-step attempt",
+  "observations": [
+    {"step_id": "sanitize_hands", "start_seconds": 0, "end_seconds": 8, "confidence": 0.92},
+    {"step_id": "wear_coat", "start_seconds": 9, "end_seconds": 19, "confidence": 0.88},
+    {"step_id": "wear_mask", "start_seconds": 20, "end_seconds": 27, "confidence": 0.91},
+    {"step_id": "wear_mask", "start_seconds": 28, "end_seconds": 35, "confidence": 0.86},
+    {"step_id": "wear_goggles", "start_seconds": 36, "end_seconds": 43, "confidence": 0.90},
+    {"step_id": "wear_gloves", "start_seconds": 44, "end_seconds": 54, "confidence": 0.89}
+  ]
+}
+

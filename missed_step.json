@@ -1,0 +1,10 @@
+{
+  "name": "Missed-step attempt",
+  "observations": [
+    {"step_id": "sanitize_hands", "start_seconds": 0, "end_seconds": 7, "confidence": 0.91},
+    {"step_id": "wear_coat", "start_seconds": 8, "end_seconds": 20, "confidence": 0.87},
+    {"step_id": "wear_mask", "start_seconds": 21, "end_seconds": 29, "confidence": 0.91},
+    {"step_id": "wear_gloves", "start_seconds": 30, "end_seconds": 41, "confidence": 0.88}
+  ]
+}
+
